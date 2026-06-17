@@ -104,7 +104,7 @@ cd portfolio-website
 
 💻 GitHub: https://github.com/haneeshaksr
 
-🔗 LinkedIn: https://linkedin.com/in/profile
+🔗 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/korivi-hema-venkata-lakshmi-haneesha-b6b736367?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ## License
 
